@@ -24,7 +24,7 @@
 <ol>
   <li>Make sure <strong>Ignition Localhost</strong> is running</li>
   <li>Open <strong>Designer Launcher</strong>. </li>
-  <li>Select the Designer running on Localhost and then click "Open Designer" button from bottom right</li>
-  <li>Import the project you downloaded from here by clicking the "Import Project" button in the upper right part of the window that comes up.</li>
-  <li>Run the project via Vision by following the "Tools/Launch Project/Launch" path from the top menu</li>
+  <li>Select the Designer <strong>running</strong> on Localhost and then click <strong>"Open Designer"</strong> button from bottom right</li>
+  <li>Import the project you downloaded from here by clicking the <strong>"Import Project"</strong> button in the upper right part of the window that comes up.</li>
+  <li>Run the project via <strong>Vision</strong> by following the <strong>"Tools/Launch Project/Launch"</strong> path from the top menu</li>
 </ol>
