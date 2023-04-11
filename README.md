@@ -12,10 +12,10 @@
 <h3>Ignition SCADA</h3>
 <ul>
   <li>Login to Ignition SCADA localhost administration panel</li>
-  <li>Click on the "Config" tab from the left side menu</li>
-  <li>On the screen that comes up, click the "Connections" tab under the "Databases" section</li>
-  <li>Add a new database by clicking on the link "Create new Database Connection..."</li>
-  <li>Select MySQL (The official MySQL JDBC Driver, Connector/J must be installed on the computer)</li>
+  <li>Click on the <strong>"Config"</strong> tab from the left side menu</li>
+  <li>On the screen that comes up, click the <strong>"Connections"</strong> tab under the <strong>"Databases"</strong> section</li>
+  <li>Add a new database by clicking on the link <strong>"Create new Database Connection..."</strong></li>
+  <li>Select <strong>MySQL</strong> (The official MySQL JDBC Driver, Connector/J must be installed on the computer)</li>
   <li>Enter the information with the database name <strong>ScadaControl</strong> and click the "Create New Database Connection" button to create the database</li>
   <li>After the database is created, import the contents of the Database you downloaded from above to the database you just created</li>
 </ul>
