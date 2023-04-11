@@ -1,7 +1,7 @@
 # Paneling datas with Ignition SCADA
 - Used in the Project <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
-<img src="https://drive.google.com/uc?export=view&id=1Ex-shWiVf8tEokRp5A5kWD34RyRRxG0n"> Ignition SCADA
+<img src="https://drive.google.com/uc?export=view&id=1PHXFxrpOvap8VZdaV-I6rNNcX8l73g_X"> Ignition SCADA
 
 # Download Required Files
 
